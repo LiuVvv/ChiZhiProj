@@ -1,0 +1,222 @@
+[INFO ] 2017-10-31 17:31:06,034 com.webtest.util.Log - hello
+[INFO ] 2017-10-31 17:47:24,105 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-10-31 17:47:24,111 com.webtest.util.Log - firefox
+[INFO ] 2017-10-31 17:47:33,530 com.webtest.util.Log - Opened url https://www.baidu.com/
+[INFO ] 2017-10-31 17:47:48,399 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:51:54,183 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:51:54,197 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:52:01,120 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie
+[INFO ] 2017-11-01 08:52:05,003 com.webtest.util.Log - //input[@value='马上登录']can't find element by prefix.
+[INFO ] 2017-11-01 08:52:12,511 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 09:20:23,033 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 09:20:23,128 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 09:20:28,646 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/admin.php/Login/index.html
+[INFO ] 2017-11-01 09:20:29,098 com.webtest.util.Log - classname=subcan't find element by prefix.
+[INFO ] 2017-11-01 09:20:33,094 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 09:21:37,951 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 09:21:38,020 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 09:21:41,850 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/admin.php/Login/index.html
+[INFO ] 2017-11-01 09:21:41,975 com.webtest.util.Log - classname=subcan't find element by prefix.
+[INFO ] 2017-11-01 09:21:48,495 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 16:29:20,780 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 16:29:20,875 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 16:33:24,540 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 16:33:24,721 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 16:35:53,858 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 16:35:53,920 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 16:50:19,128 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 16:50:19,201 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:24:42,103 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:54:04,740 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 14:54:14,871 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.3UUNlH6anOy7, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=10216, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ebea82d1-9b74-40a7-8e25-595fc7fc064c
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-23 15:21:36,387 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 15:39:58,106 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 15:57:06,297 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 15:57:14,289 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 15:57:24,350 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.HhtRJwkReU0C, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=13816, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 51c53f7d-6706-41a3-b0e3-221ac24408ef
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 15:57:34,388 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.HhtRJwkReU0C, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=13816, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 51c53f7d-6706-41a3-b0e3-221ac24408ef
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 15:57:44,429 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.HhtRJwkReU0C, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=13816, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 51c53f7d-6706-41a3-b0e3-221ac24408ef
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:00:50,788 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:01:00,862 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:01:02,190 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.OSPZ6DmXXYdN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11336, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 165db6a2-f88f-486f-aa49-33d0865aefb8
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 16:01:02,198 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.OSPZ6DmXXYdN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11336, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 165db6a2-f88f-486f-aa49-33d0865aefb8
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 16:01:02,204 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.OSPZ6DmXXYdN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11336, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 165db6a2-f88f-486f-aa49-33d0865aefb8
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:02:05,939 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:02:17,158 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:02:27,242 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.587GutDEDajN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=7728, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7da28302-44ed-4b2c-b3ad-7bd5afbe160e
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 16:02:37,281 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.587GutDEDajN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=7728, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7da28302-44ed-4b2c-b3ad-7bd5afbe160e
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 16:02:47,314 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.587GutDEDajN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=7728, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7da28302-44ed-4b2c-b3ad-7bd5afbe160e
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:08:10,796 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:08:21,830 com.webtest.util.Log - value=查看can't find element by prefix.
+[INFO ] 2017-11-23 16:08:26,067 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:08:36,112 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.veSqu56SH7tc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=9644, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: efe6118f-4a18-48e8-968a-dac91f8672af
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 16:08:46,150 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.veSqu56SH7tc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=9644, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: efe6118f-4a18-48e8-968a-dac91f8672af
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 16:08:56,185 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.veSqu56SH7tc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=9644, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: efe6118f-4a18-48e8-968a-dac91f8672af
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:11:36,804 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:11:44,419 com.webtest.util.Log - value=查看can't find element by prefix.
+[INFO ] 2017-11-23 16:11:48,110 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:11:58,184 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.goASZRh2wapd, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=9232, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4f19565a-c8d1-4637-b1c0-455eb6279bd6
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 16:12:08,216 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.goASZRh2wapd, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=9232, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4f19565a-c8d1-4637-b1c0-455eb6279bd6
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 16:12:18,241 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.goASZRh2wapd, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=9232, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4f19565a-c8d1-4637-b1c0-455eb6279bd6
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:14:06,481 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:14:19,862 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:14:29,930 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.NId8Q0yg6X5z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15596, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a80de4e6-9830-45e4-b3c7-5467d3de9c64
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 16:14:39,960 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.NId8Q0yg6X5z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15596, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a80de4e6-9830-45e4-b3c7-5467d3de9c64
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 16:14:49,993 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.NId8Q0yg6X5z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15596, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a80de4e6-9830-45e4-b3c7-5467d3de9c64
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:37:08,740 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:37:27,365 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-23 16:37:37,441 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.Oq4KGgFvTrWR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15008, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 1a5c5ace-6794-4e94-8408-a628459528b7
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-23 16:37:47,480 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.Oq4KGgFvTrWR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15008, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 1a5c5ace-6794-4e94-8408-a628459528b7
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-23 16:37:57,513 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.Oq4KGgFvTrWR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15008, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 1a5c5ace-6794-4e94-8408-a628459528b7
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-23 16:50:37,452 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ <!-- beforesuite class text 之类的及时从这里来的  只能有一个集合suite
+ beforesuite要写在那三个类里-->
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="NoPackageTest"/>
+       <!-- <method>
+       	<include name="doge"></include>
+       </method> -->
+    </classes>
+  </test>
+ 
+  <test name="Regression1" preserve-order="true">
+    <classes>
+      <class name="test.sample.ParameterSample"/>
+      <class name="test.sample.ParameterTest"/>
+    </classes>
+  </test>
+</suite>
