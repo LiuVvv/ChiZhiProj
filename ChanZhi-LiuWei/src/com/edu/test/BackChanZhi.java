@@ -57,11 +57,18 @@ public class BackChanZhi extends BaseTest{
 		webtest.type("id=begin", firstTime);
 		webtest.type("id=end", secondTime);
 		webtest.click("id=submit");
-		//webtest.click("xpath=//input[@id='submit']");
-		Thread.sleep(3000);
-//		driver.findElement(By.id("submit")).click();
-//		driver.findElement(By.xpath("//input[@id='submit']"));
-	}
+		}
+	@Test
+	public void ZuiJinWeek() throws InterruptedException{
+		/*
+		 * 推广-点击最近一周
+		 */
+			String usname="admin";
+			String passwd="admin";
+			loginPass(usname, passwd);
+			webtest.click("xpath=//a[contains(.,'推广')]");
+			webtest.click("xpath=//a[contains(.,'最近一周')]");
+			}
 	
 
 }
