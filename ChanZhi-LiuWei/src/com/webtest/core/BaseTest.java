@@ -48,9 +48,14 @@ public class BaseTest {
 		String firefox_path = getCfgProperty("firefox_path");
 		System.setProperty("webdriver.firefox.bin", firefox_path);
 		System.setProperty("webdriver.gecko.driver",firefox_driver);
+
 		driver = new FirefoxDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		this.driver.manage().window().maximize();
 		webtest = new WebDriverEngine(driver);
+		webtest.open(base_Url);
+
+		check=new Checker(webtest);
 		
 	}
 

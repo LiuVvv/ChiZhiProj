@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.edu.test.BackChanZhi">
+      <class name="com.edu.test.TGGuanJianCi">
         <methods>
           <include name="setUpBrowser"/>
-          <include name="TuiguangToday"/>
+          <include name="Nextpage"/>
+          <include name="beforeAction"/>
         </methods>
-      </class> <!-- com.edu.test.BackChanZhi -->
+      </class> <!-- com.edu.test.TGGuanJianCi -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -237,8 +237,16 @@ public class WebDriverEngine {
 		JavascriptExecutor j = (JavascriptExecutor) driver;
 		j.executeScript(js);
 	}
-
-	public void keyDown() {
+	//backspace
+	public void Backspace(){
+////		Actions action = new Actions(driver);
+//     	action.keyDown(Keys.BACK_SPACE).perform();
+//    	action.keyUp(Keys.BACK_SPACE).perform();
+		action.sendKeys(Keys.BACK_SPACE).perform();
+		action.sendKeys(Keys.BACK_SPACE).perform();
+		
+	}
+	public void keyDownEnter() {
 		Actions action = new Actions(driver);
 		action.keyDown(Keys.ENTER);
 	}

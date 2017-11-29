@@ -220,3 +220,2955 @@ Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.Oq4KGgFvTrWR, rotatab
 Session ID: 1a5c5ace-6794-4e94-8408-a628459528b7
 *** Element info: {Using=id, value=submit}
 [INFO ] 2017-11-23 16:50:37,452 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:02:27,173 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:02:44,831 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:02:54,946 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-24 09:03:04,967 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-24 09:03:14,994 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-24 09:03:26,660 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:03:36,689 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-24 09:03:46,722 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-24 09:03:56,763 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #submit
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-24 09:04:08,012 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:04:18,038 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-24 09:04:28,077 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-24 09:04:37,074 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.MlSTsqWxKv6b, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=11868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 801eb552-a50f-45b8-b141-e5b6503b72f5
+*** Element info: {Using=id, value=submit}
+[INFO ] 2017-11-24 09:05:06,730 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:09:31,708 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:42:22,659 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:46:51,949 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 09:48:59,082 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:12:47,204 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:24:00,210 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:27:09,643 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:35:29,390 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:35:41,663 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-24 10:38:17,843 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:38:29,230 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-24 10:41:43,352 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:41:54,538 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-24 10:45:51,459 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:46:02,795 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-24 10:56:05,888 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 10:56:16,923 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-24 10:56:30,556 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #macDays
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DOGE-STAR', ip: '192.168.47.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Windows\TEMP\rust_mozprofile.CNlFFA2YNJMV, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=6.3, moz:processID=15628, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b9c17d7e-9538-484a-85ce-0870fe41e190
+*** Element info: {Using=id, value=macDays}
+[INFO ] 2017-11-24 11:16:33,610 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-24 11:16:45,146 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-28 09:19:38,059 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 09:26:23,357 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 09:26:36,574 com.webtest.util.Log - expectedValue :流量统计设置  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"stat","currentMethod":"setting","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.chart-canvas{margin:10px;}
+#switchBar {padding-top:10px;}
+#switchBar label{margin: 0 5px; font-weight:normal; cursor:pointer; color:blue;}
+#switchBar label.active{color:#333; font-weight:bold;}
+
+.table-report{ border:1px solid #ddd !important; }
+#reportData{ margin-top:10px;}
+#reportData thead tr td { font-weight:bold; background:#EFEFEF;}
+
+.lineTypeBar{ padding: 20px;}
+
+.table tr td.baidu{background:#FFF0D5;}
+.table tr td.bing{background:#DDF3F5;}
+.table tr td.google{background:#FFFFFF;}
+.table tr td.haosou{background:#FFFFFF;}
+.table tr td.sogou{background:#F5F5F5}
+.pd-l0{padding-left:0}
+
+#typeMenu {padding-right:20px;}
+#typeMenu li a{padding:5px;}
+#typeMenu li.active a{ background:none; color:blue; font-weight:bold;}
+
+.close { float: none; }
+.panel-heading{padding-bottom: 9px;}
+.nav-tabs .table{margin-bottom: 0;}
+#typeNav{border-bottom: none;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="col-md-2">
+      <div class="leftmenu affix hiddden-xs hidden-sm">
+        <ul class="nav nav-left nav-primary nav-stacked">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">流量概况<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=from">来源分类<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=domainlist">来路域名<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=search">搜索引擎<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=keywords">关键词<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=client&amp;type=browser">用户终端<i class="icon-chevron-right"></i></a>
+</li>
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=page">点击排行<i class="icon-chevron-right"></i></a>
+</li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=stat&amp;f=setting">设置<i class="icon-chevron-right"></i></a>
+</li>
+</ul>
+              </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel">
+  <div class="panel-heading"><strong><i class="icon-globe"></i> 流量统计设置</strong></div>
+  <div class="panel-body">
+    <form method="post" id="ajaxForm" class="form-inline">
+      <table class="table table-form">
+        <tbody><tr>
+          <th class="w-130px">日志保存天数</th> 
+          <td class="w-180px">
+            <div class="input-group">
+              <input name="saveDays" id="saveDays" value="30" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>概况图显示最大天数</th> 
+          <td>
+            <div class="input-group">
+              <input name="maxDays" id="maxDays" value="60" class="form-control" type="text">
+              <span class="input-group-addon">天</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th></th> 
+          <td> <input id="submit" class="btn btn-primary" value="保存" data-loading="稍候..." type="submit"> </td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    if(typeof(v.lineCharts) != 'undefined')
+    {
+        var data    = {labels: v.lineLabels, datasets: v.lineCharts.pvChart};
+        var options = {multiTooltipTemplate: "<%= datasetLabel %> <%= value %>", datasetFill : false}
+        lineChart   = $('#lineChart').lineChart(data, options);
+        $('[name=lineType]').change(function()
+        {
+            type = $('[name=lineType]:checked').val() + 'Chart';
+            data = v.lineCharts[type];
+            $.each(data, function(lineID, line)
+            {
+              $.each(line.data, function(id, value)
+              {
+                  lineChart.datasets[lineID].points[id].value = value;
+                  lineChart.datasets[lineID].label = line.label;
+              });
+            })
+            lineChart.update();
+        })
+    }
+})
+
+</script>
+
+
+</div></body></html>
+[INFO ] 2017-11-28 09:37:07,634 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 09:37:19,503 com.webtest.util.Log - expectedValue :搜索  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关键词 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"tag","currentMethod":"admin","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="panel">
+  <div class="panel-heading">
+    <strong><i class="icon-tags"></i> 关键词</strong>
+    <div class="panel-actions">
+      <form method="post" class="form-inline form-search">
+        <div class="input-group">
+          <input name="tag" id="tag" value="" class="form-control search-query" placeholder="请输入关键词" type="text">
+          <span class="input-group-btn">
+             <input id="submit" class="btn btn-primary" value="搜索" data-loading="稍候..." type="submit">           </span>
+        </div>
+      </form>
+    </div>
+  </div>
+  <table class="table table-hover table-bordered table-striped tablesorter table-fixed">
+    <thead>
+      <tr class="text-center">
+                <th class="col-xs-3"> <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=tag_asc&amp;recTotal=16&amp;recPerPage=10">关键词</a>
+</div></th>
+        <th class="col-xs-1"><div class="headerSortUp"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_asc&amp;recTotal=16&amp;recPerPage=10">权重</a>
+</div></th>
+        <th>               <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=link_asc&amp;recTotal=16&amp;recPerPage=10">链接</a>
+</div></th>
+        <th class="col-xs-2">操作</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=开源CMS" data-toggle="modal">开源CMS</a>
+</td>
+        <td>5</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=9" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=9" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业建站系统" data-toggle="modal">企业建站系统</a>
+</td>
+        <td>5</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=2" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=2" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=免费cms" data-toggle="modal">免费cms</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=10" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=10" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业门户" data-toggle="modal">企业门户</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=3" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=3" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=蝉知企业门户系统" data-toggle="modal">蝉知企业门户系统</a>
+</td>
+        <td>3</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=6" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=6" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业建站" data-toggle="modal">企业建站</a>
+</td>
+        <td>2</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=8" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=8" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微信网站" data-toggle="modal">微信网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=15" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=15" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=手机建站系统" data-toggle="modal">手机建站系统</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=14" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=14" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=移动建站" data-toggle="modal">移动建站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=13" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=13" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微网站" data-toggle="modal">微网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=12" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=12" class="deleter">删除</a>
+        </td>
+      </tr>
+          </tbody>
+    <tfoot><tr><td colspan="4"><div style="float:right; clear:none;" class="pager form-inline">共 <strong>16</strong> 条记录，<div class="dropdown dropup"><a href="javascript:;" data-toggle="dropdown" id="_recPerPage" data-value="10">每页 <strong>10</strong> 条<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 5)">5</a></li><li class="active"><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 10)">10</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 15)">15</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 20)">20</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 25)">25</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 30)">30</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 35)">35</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 40)">40</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 45)">45</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 50)">50</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 100)">100</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 200)">200</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 500)">500</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 1000)">1000</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 2000)">2000</a></li></ul></div> <strong>1/2</strong> &nbsp; <i class="icon-step-backward" title="首页"></i> <i class="icon-play icon-rotate-180" title="上一页"></i> <a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=16&amp;recPerPage=10&amp;pageID=2"><i class="icon-play" title="下一页"></i></a>
+<a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=16&amp;recPerPage=10&amp;pageID=2"><i class="icon-step-forward" title="末页"></i></a>
+<input id="_recTotal" value="16" type="hidden">
+<input id="_pageTotal" value="2" type="hidden">
+<input id="_pageID" value="1" style="text-align:center;width:30px;" class="form-control" type="text"> 
+<input id="goto" value="GO!" onclick="submitPage(&quot;changePageID&quot;);" class="btn" type="button">        <script language="Javascript">
+        vars = 'orderBy=rank_desc&recTotal=_recTotal_&recPerPage=_recPerPage_&pageID=_pageID_';
+        pageCookie = 'pagerTagAdmin';
+        function submitPage(mode, perPage)
+        {
+            pageTotal  = parseInt(document.getElementById('_pageTotal').value);
+            pageID     = document.getElementById('_pageID').value;
+            recPerPage = document.getElementById('_recPerPage').getAttribute('data-value');
+            recTotal   = document.getElementById('_recTotal').value;
+            if(mode == 'changePageID')
+            {
+                if(pageID > pageTotal) pageID = pageTotal;
+                if(pageID < 1) pageID = 1;
+            }
+            else if(mode == 'changeRecPerPage')
+            {
+                recPerPage = perPage;
+                pageID = 1;
+            }
+            $.cookie(pageCookie, recPerPage, {expires:config.cookieLife, path:config.webRoot});
+
+            vars = vars.replace('_recTotal_', recTotal)
+            vars = vars.replace('_recPerPage_', recPerPage)
+            vars = vars.replace('_pageID_', pageID);
+            location.href=createLink('tag', 'admin', vars);
+        }
+        </script></div></td></tr></tfoot>
+  </table>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li><li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+
+
+</body></html>
+[INFO ] 2017-11-28 09:58:57,630 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 09:59:15,205 com.webtest.util.Log - expectedValue :来源  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关键词 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"tag","currentMethod":"admin","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body class="" style="">
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="panel">
+  <div class="panel-heading">
+    <strong><i class="icon-tags"></i> 关键词</strong>
+    <div class="panel-actions">
+      <form method="post" class="form-inline form-search">
+        <div class="input-group">
+          <input name="tag" id="tag" value="" class="form-control search-query" placeholder="请输入关键词" type="text">
+          <span class="input-group-btn">
+             <input id="submit" class="btn btn-primary" value="搜索" data-loading="稍候..." type="submit">           </span>
+        </div>
+      </form>
+    </div>
+  </div>
+  <table class="table table-hover table-bordered table-striped tablesorter table-fixed">
+    <thead>
+      <tr class="text-center">
+                <th class="col-xs-3"> <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=tag_asc&amp;recTotal=16&amp;recPerPage=10">关键词</a>
+</div></th>
+        <th class="col-xs-1"><div class="headerSortUp"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_asc&amp;recTotal=16&amp;recPerPage=10">权重</a>
+</div></th>
+        <th>               <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=link_asc&amp;recTotal=16&amp;recPerPage=10">链接</a>
+</div></th>
+        <th class="col-xs-2">操作</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=开源CMS" data-toggle="modal">开源CMS</a>
+</td>
+        <td>5</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=9" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=9" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业建站系统" data-toggle="modal">企业建站系统</a>
+</td>
+        <td>5</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=2" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=2" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=免费cms" data-toggle="modal">免费cms</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=10" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=10" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业门户" data-toggle="modal">企业门户</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=3" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=3" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=蝉知企业门户系统" data-toggle="modal">蝉知企业门户系统</a>
+</td>
+        <td>3</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=6" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=6" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业建站" data-toggle="modal">企业建站</a>
+</td>
+        <td>2</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=8" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=8" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微信网站" data-toggle="modal">微信网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=15" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=15" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=手机建站系统" data-toggle="modal">手机建站系统</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=14" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=14" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=移动建站" data-toggle="modal">移动建站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=13" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=13" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微网站" data-toggle="modal">微网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=12" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=12" class="deleter">删除</a>
+        </td>
+      </tr>
+          </tbody>
+    <tfoot><tr><td colspan="4"><div style="float:right; clear:none;" class="pager form-inline">共 <strong>16</strong> 条记录，<div class="dropdown dropup"><a href="javascript:;" data-toggle="dropdown" id="_recPerPage" data-value="10">每页 <strong>10</strong> 条<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 5)">5</a></li><li class="active"><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 10)">10</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 15)">15</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 20)">20</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 25)">25</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 30)">30</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 35)">35</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 40)">40</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 45)">45</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 50)">50</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 100)">100</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 200)">200</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 500)">500</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 1000)">1000</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 2000)">2000</a></li></ul></div> <strong>1/2</strong> &nbsp; <i class="icon-step-backward" title="首页"></i> <i class="icon-play icon-rotate-180" title="上一页"></i> <a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=16&amp;recPerPage=10&amp;pageID=2"><i class="icon-play" title="下一页"></i></a>
+<a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=16&amp;recPerPage=10&amp;pageID=2"><i class="icon-step-forward" title="末页"></i></a>
+<input id="_recTotal" value="16" type="hidden">
+<input id="_pageTotal" value="2" type="hidden">
+<input id="_pageID" value="1" style="text-align:center;width:30px;" class="form-control" type="text"> 
+<input id="goto" value="GO!" onclick="submitPage(&quot;changePageID&quot;);" class="btn" type="button">        <script language="Javascript">
+        vars = 'orderBy=rank_desc&recTotal=_recTotal_&recPerPage=_recPerPage_&pageID=_pageID_';
+        pageCookie = 'pagerTagAdmin';
+        function submitPage(mode, perPage)
+        {
+            pageTotal  = parseInt(document.getElementById('_pageTotal').value);
+            pageID     = document.getElementById('_pageID').value;
+            recPerPage = document.getElementById('_recPerPage').getAttribute('data-value');
+            recTotal   = document.getElementById('_recTotal').value;
+            if(mode == 'changePageID')
+            {
+                if(pageID > pageTotal) pageID = pageTotal;
+                if(pageID < 1) pageID = 1;
+            }
+            else if(mode == 'changeRecPerPage')
+            {
+                recPerPage = perPage;
+                pageID = 1;
+            }
+            $.cookie(pageCookie, recPerPage, {expires:config.cookieLife, path:config.webRoot});
+
+            vars = vars.replace('_recTotal_', recTotal)
+            vars = vars.replace('_recPerPage_', recPerPage)
+            vars = vars.replace('_pageID_', pageID);
+            location.href=createLink('tag', 'admin', vars);
+        }
+        </script></div></td></tr></tfoot>
+  </table>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li><li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+
+
+<div id="ajaxModal" class="modal modal-trigger fade" ref="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=开源CMS" style="display: block;" aria-hidden="true"><div class="icon icon-spin loader icon-spinner-indicator"></div><style>.list-group-item {display: block; padding: 10px 0;}
+</style><script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+<div class="modal-dialog" style="width: 600px; margin-top: 78.6667px;">
+  <div class="modal-content">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>      <strong class="modal-title">来源</strong>
+          </div>
+    <div class="modal-body">
+  <ul class="list-group">
+            <li class="list-group-item">
+      <span class="label label-danger">文章</span>
+      <a href="/chanzhieps/www/index.php/download/chanzhieps2.2.1-8.html" target="_blank">蝉知企业门户2.2.1版本发布</a>
+    </li>
+        <li class="list-group-item">
+      <span class="label label-danger">文章</span>
+      <a href="/chanzhieps/www/index.php/download/chanzhi2.3-7.html" target="_blank">蝉知企业门户2.3正式版发布</a>
+    </li>
+        <li class="list-group-item">
+      <span class="label label-danger">文章</span>
+      <a href="/chanzhieps/www/index.php/download/6.html" target="_blank">蝉知企业门户2.4正式版发布</a>
+    </li>
+        
+    
+    
+            <li class="list-group-item">
+      <span class="label label-danger">
+        版块      </span>
+      <a href="/chanzhieps/www/index.php/forum/feedback.html" target="_blank">建议反馈</a>
+    </li>
+        <li class="list-group-item">
+      <span class="label label-danger">
+        版块      </span>
+      <a href="/chanzhieps/www/index.php/forum/support.html" target="_blank">技术支持</a>
+    </li>
+          </ul>
+    </div>
+  </div>
+</div></div><div class="modal-backdrop fade in"></div></body></html>
+[INFO ] 2017-11-28 10:19:12,837 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[FATAL] 2017-11-28 10:19:45,163 com.webtest.util.Log - expectedValue doesn't match actualValue,actual Value is :<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关键词 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"tag","currentMethod":"admin","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="panel">
+  <div class="panel-heading">
+    <strong><i class="icon-tags"></i> 关键词</strong>
+    <div class="panel-actions">
+      <form method="post" class="form-inline form-search">
+        <div class="input-group">
+          <input name="tag" id="tag" value="" class="form-control search-query" placeholder="请输入关键词" type="text">
+          <span class="input-group-btn">
+             <input id="submit" class="btn btn-primary" value="搜索" data-loading="稍候..." type="submit">           </span>
+        </div>
+      </form>
+    </div>
+  </div>
+  <table class="table table-hover table-bordered table-striped tablesorter table-fixed">
+    <thead>
+      <tr class="text-center">
+                <th class="col-xs-3"> <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=tag_asc&amp;recTotal=15&amp;recPerPage=10">关键词</a>
+</div></th>
+        <th class="col-xs-1"><div class="headerSortUp"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_asc&amp;recTotal=15&amp;recPerPage=10">权重</a>
+</div></th>
+        <th>               <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=link_asc&amp;recTotal=15&amp;recPerPage=10">链接</a>
+</div></th>
+        <th class="col-xs-2">操作</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=开源CMS" data-toggle="modal">开源CMS</a>
+</td>
+        <td>5</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=9" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=9" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业门户" data-toggle="modal">企业门户</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=3" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=3" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=免费cms" data-toggle="modal">免费cms</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=10" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=10" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=蝉知企业门户系统" data-toggle="modal">蝉知企业门户系统</a>
+</td>
+        <td>3</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=6" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=6" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业建站" data-toggle="modal">企业建站</a>
+</td>
+        <td>2</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=8" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=8" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微信网站" data-toggle="modal">微信网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=15" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=15" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=手机建站系统" data-toggle="modal">手机建站系统</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=14" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=14" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=移动建站" data-toggle="modal">移动建站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=13" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=13" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微网站" data-toggle="modal">微网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=12" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=12" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微信营销系统" data-toggle="modal">微信营销系统</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=11" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=11" class="deleter">删除</a>
+        </td>
+      </tr>
+          </tbody>
+    <tfoot><tr><td colspan="4"><div style="float:right; clear:none;" class="pager form-inline">共 <strong>15</strong> 条记录，<div class="dropdown dropup"><a href="javascript:;" data-toggle="dropdown" id="_recPerPage" data-value="10">每页 <strong>10</strong> 条<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 5)">5</a></li><li class="active"><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 10)">10</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 15)">15</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 20)">20</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 25)">25</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 30)">30</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 35)">35</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 40)">40</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 45)">45</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 50)">50</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 100)">100</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 200)">200</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 500)">500</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 1000)">1000</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 2000)">2000</a></li></ul></div> <strong>1/2</strong> &nbsp; <i class="icon-step-backward" title="首页"></i> <i class="icon-play icon-rotate-180" title="上一页"></i> <a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=15&amp;recPerPage=10&amp;pageID=2"><i class="icon-play" title="下一页"></i></a>
+<a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=15&amp;recPerPage=10&amp;pageID=2"><i class="icon-step-forward" title="末页"></i></a>
+<input id="_recTotal" value="15" type="hidden">
+<input id="_pageTotal" value="2" type="hidden">
+<input id="_pageID" value="1" style="text-align:center;width:30px;" class="form-control" type="text"> 
+<input id="goto" value="GO!" onclick="submitPage(&quot;changePageID&quot;);" class="btn" type="button">        <script language="Javascript">
+        vars = 'orderBy=rank_desc&recTotal=_recTotal_&recPerPage=_recPerPage_&pageID=_pageID_';
+        pageCookie = 'pagerTagAdmin';
+        function submitPage(mode, perPage)
+        {
+            pageTotal  = parseInt(document.getElementById('_pageTotal').value);
+            pageID     = document.getElementById('_pageID').value;
+            recPerPage = document.getElementById('_recPerPage').getAttribute('data-value');
+            recTotal   = document.getElementById('_recTotal').value;
+            if(mode == 'changePageID')
+            {
+                if(pageID > pageTotal) pageID = pageTotal;
+                if(pageID < 1) pageID = 1;
+            }
+            else if(mode == 'changeRecPerPage')
+            {
+                recPerPage = perPage;
+                pageID = 1;
+            }
+            $.cookie(pageCookie, recPerPage, {expires:config.cookieLife, path:config.webRoot});
+
+            vars = vars.replace('_recTotal_', recTotal)
+            vars = vars.replace('_recPerPage_', recPerPage)
+            vars = vars.replace('_pageID_', pageID);
+            location.href=createLink('tag', 'admin', vars);
+        }
+        </script></div></td></tr></tfoot>
+  </table>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li><li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+
+
+</body></html>; expected Value is :安全cms
+[INFO ] 2017-11-28 10:22:09,889 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 10:23:48,488 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 10:33:19,885 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 10:35:43,425 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 10:54:30,528 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 10:54:47,891 com.webtest.util.Log - expectedValue :首页  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"admin","currentMethod":"index","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<style>.panel-body.shortcutGroup{padding-top: 35px;}
+.shortcutGroup > a{margin: 10px 20px; font-size: 13px;}
+@media(min-width:768px){#shortcutBox{margin-top: 15px;}}
+@media(min-width:1200px){#shortcutBox{margin-top: 15px;}}
+@media(min-width:1400px){#shortcutBox{margin-top: 15px;}}
+body {background: #fafafa;}
+#shortcutBox{max-width:95%;margin-left:17px;}
+
+.page-content {margin-top: -19px; border-top: 1px solid #3280fc;}
+.dashboard {position: relative;}
+.dashboard .row {margin: 0 auto;}
+.dashboard .panel-actions {margin-top: 0; margin-right: 0;}
+.dashboard .panel-heading {line-height: 17px; height: 30px; position: relative;}
+.dashboard .panel-actions {position: absolute; top: 0; right: 0; height: 30px; font-weight: normal;}
+.dashboard .panel-action {display: block; float: left; height: 30px; min-width: 26px; text-align: center; line-height: 30px; padding-left: 3px; padding-right: 3px;}
+.dashboard .panel-actions > a {color: #666;}
+.dashboard .panel-action-more {font-size: 12px; font-weight: 200}
+.dashboard .panel-action:hover, .dashboard .panel-actions > .dropdown > a:hover {color: #333; background-color: #ddd; background-color: rgba(0,0,0,0.1); text-decoration: none}
+.dashboard .panel-title {font-size: 13px; color: #333}
+.dashboard a.panel-title > .icon-double-angle-right {position: relative; filter: alpha(opacity=0); opacity: 0; transition: opacity .2s, left .2s; left: -5px}
+.dashboard .panel:hover a.panel-title > .icon-double-angle-right {filter: alpha(opacity=100); opacity: 1; left: 0}
+.dashboard a.panel-title:hover {color: #1a53ff}
+.dashboard .panel {box-shadow: 0 1px 3px rgba(0,0,0,.05); position: relative;}
+.dashboard .panel-heading + .panel-body {position: absolute; left: 0; top: 30px; right: 0; bottom: 0}
+.dashboard .panel-dragging-shadow {position: absolute;}
+.dashboard-empty-message {text-align: center; margin-top: 100px;}
+.dashboard-empty-message > h5 {margin-bottom: 20px;}
+.dashboard .panel .panel-body{padding:5px;}
+.dashboard .panel .panel-body .table tr td{overflow:hidden;}
+.dashboard .resize-handle {display: none}
+.dashboard .row > div:hover .resize-handle {display: block}
+.ie-8 .dashboard .resize-handle > .icon {left: -4px}
+
+.dashboard-actions {margin-bottom: 20px;}
+
+.dashboard-control{position: absolute; right: -50px; top: 0;}
+.table-header-fixed {position: absolute; left: 0; top: 0; right: 0;}
+
+/* panel style */
+.panel-widget .table th {background-color: #fafafa}
+.panel-primary {border-color: transparent;!important;}
+.panel-success > .panel-heading,
+.panel-warning > .panel-heading,
+.panel-primary > .panel-heading,
+.panel-info > .panel-heading,
+.panel-danger > .panel-heading {color: #333; border: none; border-bottom: 1px solid rgba(0,0,0,.04);}
+.panel-success {background: #d1fecb!important; border-color: #b0e4ac!important}
+.panel-success > .panel-heading {background: #c5f7c1!important; }
+.panel-warning {background: #fdfdc7!important; border-color: #e1e09a!important}
+.panel-warning > .panel-heading {background: #f8f7b6!important;}
+.panel-primary {background: #d8f2fa!important; border-color: #badfeb!important}
+.panel-primary > .panel-heading {background: #c9ecf8!important; color: #333!important; border:none!important;}
+.panel-info {background: #dcd8fe!important; border-color: #d0c9ee!important}
+.panel-info > .panel-heading {background: #d4cdf3!important;}
+.panel-danger {background: #f5d0f5!important; border-color: #e9b9e9!important}
+.panel-danger > .panel-heading {background: #f1c3f1!important;}
+.panel-success .table td, .panel-success .table th,
+.panel-warning .table td, .panel-warning .table th,
+.panel-primary .table td, .panel-primary .table th,
+.panel-info .table td, .panel-info .table th,
+.panel-danger .table td, .panel-danger .table th {border: none; background-color: transparent}
+.panel-success .table tr:nth-child(even) > td, .panel-success .table th,
+.panel-warning .table tr:nth-child(even) > td, .panel-warning .table th,
+.panel-primary .table tr:nth-child(even) > td, .panel-primary .table th,
+.panel-info .table tr:nth-child(even) > td, .panel-info .table th,
+.panel-danger .table tr:nth-child(even) > td, .panel-danger .table th {background: rgba(255,255,255,.25);}
+.panel-success .table tr:nth-child(odd) > td,
+.panel-warning .table tr:nth-child(odd) > td,
+.panel-primary .table tr:nth-child(odd) > td,
+.panel-info .table tr:nth-child(odd) > td,
+.panel-danger .table tr:nth-child(odd) > td {background: rgba(0,0,0,.03);}
+.panel-success .table tr:last-child > td,
+.panel-warning .table tr:last-child > td,
+.panel-primary .table tr:last-child > td,
+.panel-info .table tr:last-child > td
+.panel-danger .table tr:last-child > td {border-bottom: 1px solid rgba(0,0,0,0.05)}
+.panel-success .table tr:hover > th,
+.panel-warning .table tr:hover > th,
+.panel-primary .table tr:hover > th,
+.panel-info .table tr:hover > th,
+.panel-danger .table tr:hover > th {background: none;}
+.panel-success .table.table-hover tr:hover > td,
+.panel-warning .table.table-hover tr:hover > td,
+.panel-primary .table.table-hover tr:hover > td,
+.panel-info .table.table-hover tr:hover > td,
+.panel-danger .table.table-hover tr:hover > td {background: rgba(255,255,255,.4);}
+
+.block.input-group-btn .btn-success {background: #d1fecb; color: #333; text-shadow: none; border-color: #ccc}
+.block.input-group-btn .btn-warning {background: #fdfdc7; color: #333; text-shadow: none; border-color: #ccc}
+.block.input-group-btn .btn-info    {background: #dcd8fe; color: #333; text-shadow: none; border-color: #ccc}
+.block.input-group-btn .btn-danger  {background: #f5d0f5; color: #333; text-shadow: none; border-color: #ccc}
+.block.input-group-btn .btn-primary, .block.input-group-btn .btn-primary:focus {background: #d8f2fa; color: #333; text-shadow: none; border-color: #ccc}
+.block.input-group-btn .btn-success:hover {border-color: #aaa}
+.block.input-group-btn .btn-warning:hover {border-color: #aaa}
+.block.input-group-btn .btn-primary:hover {border-color: #aaa}
+.block.input-group-btn .btn-info:hover    {border-color: #aaa}
+.block.input-group-btn .btn-danger:hover  {border-color: #aaa}
+.block.input-group-btn .btn-primary .caret, .block.input-group-btn .btn-success .caret, .block.input-group-btn .btn-warning .caret, .block.input-group-btn .btn-danger .caret, .block.input-group-btn .btn-info .caret {border-top-color: #333}
+
+#noticeBox{ width:380px; position:fixed; bottom:25px; right:15px; z-index: 9999; }
+
+.shortcutGroup .btn-default{width : 75px; padding-left:10px;}
+</style><link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed","confirmRebind":"\u786e\u8ba4\u8981\u91cd\u65b0\u7ed1\u5b9a\u8749\u77e5\u8d26\u53f7\uff1f"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="active" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li class="active"><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">首页</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=order&amp;f=admin">订单</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=message&amp;f=admin">反馈</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=forum&amp;f=admin">主题</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=reply&amp;f=admin">回帖</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=site&amp;f=sethomemenu"><i class="icon icon-plus"> </i>自定义</a>
+</li></ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="container" id="shortcutBox">
+  <div id="dashboardWrapper">
+    <div class="panels-container dashboard dashboard-draggable" id="dashboard">
+      <div class="dashboard-control" data-toggle="tooltip" title="" data-placement="top" data-original-title="创建区块">
+        <div class="pull-right">
+          <a class="btn" data-toggle="modal" href="/chanzhieps/www/admin.php?m=widget&amp;f=create"><i class="icon-plus"></i></a>
+        </div>
+      </div>
+      <div class="row summary">
+                                <div class="col-xs-4 pull-left">
+                    <div class="panel panel-widget" id="widget1" data-id="1" data-name="最新订单" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=1" style="height: 240px;">
+            <div class="panel-heading">
+              <span class="panel-title">最新订单</span>
+              <div class="panel-actions">
+                                                <a href="/chanzhieps/www/admin.php?m=order&amp;f=admin" class="panel-action btn-more">更多</a>
+                                <div class="dropdown">
+                  <a href="javascript:;" data-toggle="dropdown" class="panel-action"><i class="icon icon-ellipsis-v"></i></a>
+                  <ul class="dropdown-menu pull-right" role="menu">
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=edit&amp;index=1" data-toggle="modal" class="edit-widget" data-title="最新订单" data-icon="icon-pencil"><i class="icon-pencil"></i> 编辑</a></li>
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=delete&amp;id=1" class="deleter"><i class="icon-remove"></i> 删除</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+                        <div class="panel-body no-padding" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=1"><table class="table table-data table-hover table-fixed">
+    <tbody><tr onclick="$('.orderLink').click();">
+    <td>
+          <a href="/chanzhieps/www/admin.php?m=order&amp;f=view&amp;id=6" data-toggle="modal">
+      演示商品一 × 1            </a>
+    </td>
+    <td class="w-60px">0.01</td>
+    <td class="w-60px">待付款</td>
+    <td class="w-80px">2017-11-13</td>
+  </tr>
+    <tr onclick="$('.orderLink').click();">
+    <td>
+          <a href="/chanzhieps/www/admin.php?m=order&amp;f=view&amp;id=5" data-toggle="modal">
+      演示商品一 × 1            </a>
+    </td>
+    <td class="w-60px">0.01</td>
+    <td class="w-60px">待付款</td>
+    <td class="w-80px">2017-11-13</td>
+  </tr>
+    <tr onclick="$('.orderLink').click();">
+    <td>
+          <a href="/chanzhieps/www/admin.php?m=order&amp;f=view&amp;id=4" data-toggle="modal">
+      演示商品一 × 1            </a>
+    </td>
+    <td class="w-60px">0.01</td>
+    <td class="w-60px">待付款</td>
+    <td class="w-80px">2017-11-13</td>
+  </tr>
+    <tr onclick="$('.orderLink').click();">
+    <td>
+          <a href="/chanzhieps/www/admin.php?m=order&amp;f=view&amp;id=3" data-toggle="modal">
+      演示商品一 × 1            </a>
+    </td>
+    <td class="w-60px">0.01</td>
+    <td class="w-60px">待付款</td>
+    <td class="w-80px">2017-11-13</td>
+  </tr>
+    <tr onclick="$('.orderLink').click();">
+    <td>
+          <a href="/chanzhieps/www/admin.php?m=order&amp;f=view&amp;id=2" data-toggle="modal">
+      云蝉知 × 1            </a>
+    </td>
+    <td class="w-60px">0.01</td>
+    <td class="w-60px">待发货</td>
+    <td class="w-80px">2015-02-12</td>
+  </tr>
+    <tr onclick="$('.orderLink').click();">
+    <td>
+          <a href="/chanzhieps/www/admin.php?m=order&amp;f=view&amp;id=1" data-toggle="modal">
+      云蝉知 × 1            </a>
+    </td>
+    <td class="w-60px">0.01</td>
+    <td class="w-60px">已过期</td>
+    <td class="w-80px">2015-02-12</td>
+  </tr>
+  </tbody></table>
+</div>
+                      </div>
+        <div class="resize-handle"><i class="icon icon-resize-h"></i></div></div>
+                        <div class="col-xs-4 pull-left">
+                    <div class="panel panel-widget" id="widget2" data-id="2" data-name="最新帖子" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=2" style="height: 240px;">
+            <div class="panel-heading">
+              <span class="panel-title">最新帖子</span>
+              <div class="panel-actions">
+                                                <a href="/chanzhieps/www/admin.php?m=forum&amp;f=admin" class="panel-action btn-more">更多</a>
+                                <div class="dropdown">
+                  <a href="javascript:;" data-toggle="dropdown" class="panel-action"><i class="icon icon-ellipsis-v"></i></a>
+                  <ul class="dropdown-menu pull-right" role="menu">
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=edit&amp;index=2" data-toggle="modal" class="edit-widget" data-title="最新帖子" data-icon="icon-pencil"><i class="icon-pencil"></i> 编辑</a></li>
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=delete&amp;id=2" class="deleter"><i class="icon-remove"></i> 删除</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+                        <div class="panel-body no-padding" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=2"><table class="table table-data table-hover table-fixed">
+    <tbody><tr>
+    <td>
+      <a href="/chanzhieps/www/index.php/thread/2.html" target="_blank">刘薇是个傻子吧</a>
+    </td>
+    <td class="w-55px text-center" title="admin">admin</td>        <td class="w-80px">11-14 08:31</td>
+  </tr>
+    <tr>
+    <td>
+      <a href="/chanzhieps/www/index.php/thread/1.html" target="_blank">asdfasdf</a>
+    </td>
+    <td class="w-55px text-center" title="demo">demo</td>        <td class="w-80px">09-02 18:27</td>
+  </tr>
+  </tbody></table>
+</div>
+                      </div>
+        <div class="resize-handle"><i class="icon icon-resize-h"></i></div></div>
+                        <div class="col-xs-4 pull-left">
+                    <div class="panel panel-widget" id="widget3" data-id="3" data-name="反馈" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=3" style="height: 240px;">
+            <div class="panel-heading">
+              <span class="panel-title">反馈</span>
+              <div class="panel-actions"><a href="/chanzhieps/www/admin.php?m=message&amp;f=admin&amp;type=message" class="panel-action btn-count">留言[3]</a><a href="/chanzhieps/www/admin.php?m=message&amp;f=admin&amp;type=comment" class="panel-action btn-count">评论[7]</a>
+                                <div class="dropdown">
+                  <a href="javascript:;" data-toggle="dropdown" class="panel-action"><i class="icon icon-ellipsis-v"></i></a>
+                  <ul class="dropdown-menu pull-right" role="menu">
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=edit&amp;index=3" data-toggle="modal" class="edit-widget" data-title="反馈" data-icon="icon-pencil"><i class="icon-pencil"></i> 编辑</a></li>
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=delete&amp;id=3" class="deleter"><i class="icon-remove"></i> 删除</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+                        <div class="panel-body no-padding" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=3"><table class="table table-data table-hover table-fixed">
+    <tbody><tr>
+    <td>
+    11111111111111111111111111111：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=10" data-toggle="modal">洒大四</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    多撒所：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=9" data-toggle="modal">洒大四</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    多撒所：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=8" data-toggle="modal">洒大四</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    大四大四：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=7" data-toggle="modal">的按时大声道</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+     敖德萨多：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=6" data-toggle="modal">奥术大师多</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    sd：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=5" data-toggle="modal">sadsa</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    第一个评论的人：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=4" data-toggle="modal">第一个评论的话</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    qwdqwd：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=3" data-toggle="modal">qwewqdwqdqwdqw</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    qweqw：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=2" data-toggle="modal">wqewqdwq</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    asdasd：<a href="/chanzhieps/www/admin.php?m=message&amp;f=reply&amp;id=1" data-toggle="modal">adsd </a>
+    </td>
+  </tr>
+  </tbody></table>
+
+
+<script>
+$(document).ready(function()
+{
+    var panel = $('#widget' + 3);
+    if(panel.find('.panel-actions > .panel-action').length == 0)
+    {
+       $('.btn-count').prependTo(panel.find('.panel-actions')).show();
+    }
+})
+</script>
+</div>
+                      </div>
+        <div class="resize-handle"><i class="icon icon-resize-h"></i></div></div>
+                        <div class="col-xs-4 pull-left">
+                    <div class="panel panel-widget" id="widget4" data-id="4" data-name="最新投稿" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=4" style="height: 240px;">
+            <div class="panel-heading">
+              <span class="panel-title">最新投稿</span>
+              <div class="panel-actions">
+                                                <a href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=submission&amp;tab=user" class="panel-action btn-more">更多</a>
+                                <div class="dropdown">
+                  <a href="javascript:;" data-toggle="dropdown" class="panel-action"><i class="icon icon-ellipsis-v"></i></a>
+                  <ul class="dropdown-menu pull-right" role="menu">
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=edit&amp;index=4" data-toggle="modal" class="edit-widget" data-title="最新投稿" data-icon="icon-pencil"><i class="icon-pencil"></i> 编辑</a></li>
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=delete&amp;id=4" class="deleter"><i class="icon-remove"></i> 删除</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+                        <div class="panel-body no-padding" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=4"><table class="table table-data table-hover table-fixed">
+  </table>
+</div>
+                      </div>
+        <div class="resize-handle"><i class="icon icon-resize-h"></i></div></div>
+                        <div class="col-xs-4 pull-left">
+                    <div class="panel panel-widget" id="widget5" data-id="5" data-name="快捷入口" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=5" style="height: 240px;">
+            <div class="panel-heading">
+              <span class="panel-title">快捷入口</span>
+              <div class="panel-actions">
+                                <div class="dropdown">
+                  <a href="javascript:;" data-toggle="dropdown" class="panel-action"><i class="icon icon-ellipsis-v"></i></a>
+                  <ul class="dropdown-menu pull-right" role="menu">
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=edit&amp;index=5" data-toggle="modal" class="edit-widget" data-title="快捷入口" data-icon="icon-pencil"><i class="icon-pencil"></i> 编辑</a></li>
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=delete&amp;id=5" class="deleter"><i class="icon-remove"></i> 删除</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+                        <div class="panel-body no-padding" data-url="/chanzhieps/www/admin.php?m=widget&amp;f=printWidget&amp;widget=5"><div class="shortcutGroup">
+<a href="/chanzhieps/www/admin.php?m=article&amp;f=create" class="btn btn-default">发布文章</a>
+<a href="/chanzhieps/www/admin.php?m=product&amp;f=create" class="btn btn-default">添加产品</a>
+<a href="/chanzhieps/www/admin.php?m=message&amp;f=admin" class="btn btn-default">处理反馈</a>
+  
+<a href="/chanzhieps/www/admin.php?m=site&amp;f=setBasic" class="btn btn-default">站点设置</a>
+<a href="/chanzhieps/www/admin.php?m=company&amp;f=setBasic" class="btn btn-default">公司信息</a>
+<a href="/chanzhieps/www/admin.php?m=company&amp;f=setcontact" class="btn btn-default">联系方式</a>
+  
+</div>
+</div>
+                      </div>
+        <div class="resize-handle"><i class="icon icon-resize-h"></i></div></div>
+                        <div class="col-xs-4 pull-left">
+                    <div class="panel panel-widget " id="widget6" data-id="6" data-name="蝉知动态" data-url="" style="height: 240px;">
+            <div class="panel-heading">
+              <span class="panel-title">蝉知动态</span>
+              <div class="panel-actions">
+                                                <a href="http://www.chanzhi.org/dynamic.html" class="panel-action btn-more" target="_blank">更多</a>
+                                <div class="dropdown">
+                  <a href="javascript:;" data-toggle="dropdown" class="panel-action"><i class="icon icon-ellipsis-v"></i></a>
+                  <ul class="dropdown-menu pull-right" role="menu">
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=edit&amp;index=6" data-toggle="modal" class="edit-widget" data-title="蝉知动态" data-icon="icon-pencil"><i class="icon-pencil"></i> 编辑</a></li>
+                    <li><a href="/chanzhieps/www/admin.php?m=widget&amp;f=delete&amp;id=6" class="deleter"><i class="icon-remove"></i> 删除</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+                        <div id="chanzhiDynamic"><div class="panel-body no-padding"><table class="table table-data table-hover table-fixed"><tbody><tr><td><a href="http://www.chanzhi.org/page/jiayoulian.html" class="text-success" target="_blank">加友链，免费送蝉知模板主题！</a>
+</td><td class="w-70px text-right">2017-08-11</td></tr><tr><td><a href="http://www.chanzhi.org/dynamic/chanzhi6.6.1-307.html" target="_blank">蝉知企业门户系统6.6.1正式发布</a>
+</td><td class="w-70px text-right">2017-11-22</td></tr><tr><td><a href="http://www.chanzhi.org/dynamic/zhanqun1.3.beta-293.html" target="_blank">蝉知站群版1.3.beta版本正式发布</a>
+</td><td class="w-70px text-right">2017-10-25</td></tr><tr><td><a href="http://www.chanzhi.org/dynamic/static-291.html" target="_blank">蝉知系统推出生成静态html文件功能</a>
+</td><td class="w-70px text-right">2017-10-17</td></tr><tr><td><a href="http://www.chanzhi.org/dynamic/chanzhi6.6-290.html" target="_blank">蝉知企业门户系统6.6正式发布</a>
+</td><td class="w-70px text-right">2017-09-30</td></tr><tr><td><a href="http://www.chanzhi.org/dynamic/chanzhi6.5-283.html" target="_blank">蝉知开源版6.5发布，优化附件显示方式，修复bug</a>
+</td><td class="w-70px text-right">2017-08-28</td></tr><tr><td><a href="http://www.chanzhi.org/dynamic/chanzhipro1.5.1-278.html" target="_blank">蝉知专业版1.5.1正式发布，完善细节，修复bug</a>
+</td><td class="w-70px text-right">2017-08-08</td></tr></tbody></table></div></div>
+            <script>function afterDynmaicsLoad(html){$('#chanzhiDynamic').html(html);}</script>
+            <script async="" src="http://api.chanzhi.org/goto.php?item=dynamics_jsonp&amp;extra=afterDynmaicsLoad"></script>
+                      </div>
+        <div class="resize-handle"><i class="icon icon-resize-h"></i></div></div>
+              </div>
+    </div>
+  </div>
+</div>
+<div id="noticeBox">
+
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+<script>$(document).ready(function()
+{
+    $.cookie('currentGroup', 'home', {expires:config.cookieLife, path:config.webRoot});
+});
+
+
+/**
+ * index new order module,finisher button
+ * click event
+ */
+ $(document).ready(function()
+{
+    $(document).on( 'click', '.finisher', function()
+    {
+        confirmLink = $(this).data('rel');
+        $.getJSON(confirmLink, function (response)
+        {
+            if(response.result == 'success')
+            {
+                bootbox.alert(response.message, function(){ location.reload(); });
+            }
+        });
+        return true;
+    });
+});
+
+
+/**
+ * Delete widget.
+ * 
+ * @param  int    $index 
+ * @access public
+ * @return void
+ */
+function deleteWidget(index)
+{
+    $.getJSON(createLink('widget', 'delete', 'index=' + index), function(data)
+    {   
+        if(data.result != 'success')
+        {   
+            alert(data.message);
+            return false;
+        }
+        else {checkEmpty();}
+    })  
+}
+
+/**
+ * Sort widgets.
+ * 
+ * @param  object $orders  format is {'widget2' : 1, 'widget1' : 2, oldOrder : newOrder} 
+ * @access public
+ * @return void
+ */
+function sortWidgets(orders)
+{
+
+    var ordersMap = [];
+    $.each(orders, function(widgetId, order) {ordersMap.push({id: widgetId, order: order});});
+    ordersMap.sort(function(a, b) {return a.order - b.order;});
+    var newOrders = $.map(ordersMap, function(order, idx) {return order.id});
+
+    $.getJSON(createLink('widget', 'sort', 'orders=' + newOrders.join(',')), function(data)
+    {
+        // if(data.result == 'success') $.zui.messager.success(config.ordersSaved);
+    });
+}
+
+/**
+ * Check dashboard wether is empty
+ * @access public
+ * @return void
+ */
+function checkEmpty()
+{
+    var $dashboard = $('#dashboard');
+    var hasWidgets = !!$dashboard.children('.row').children().length;
+    $dashboard.find('.dashboard-empty-message').toggleClass('hide', hasWidgets);
+}
+
+/**
+ * Resize widget
+ * @param  object $event
+ * @access public
+ * @return void
+ */
+function resizeWidget(event)
+{
+    var widgetID = event.element.find('.panel').data('id');
+    $.getJSON(createLink('widget', 'resize', 'id=' + widgetID + '&grid=' + event.grid), function(data)
+    {
+        if(data.result !== 'success') event.revert();
+    });
+}
+
+/**
+ * Init table header
+ * @access public
+ * @return void
+ */
+function initTableHeader()
+{
+    $('#dashboard .panel-widget').each(function()
+    {
+        var $panel = $(this);
+        var $table = $panel.find('.table:first');
+
+        if(!$table.length || !$table.children('thead').length) return;
+
+        var $header = $panel.children('.table-header-fixed');
+        if(!$header.length)
+        {
+            $header = $('<div class="table-header-fixed"><table class="table table-fixed"></table></div>').css('right', $panel.width() - $table.width());
+            $header.find('.table').addClass($table.attr('class')).append($table.find('thead').css('visibility', 'hidden').clone().css('visibility', 'visible'));
+            $panel.addClass('with-fixed-header').append($header);
+            var $heading = $panel.children('.panel-heading');
+            if($heading.length) $header.css('top', $heading.outerHeight());
+        }
+    });
+}
+
+/**
+ * Check refresh progress
+ * @param  object $dashboard
+ * @access public
+ * @return void
+ */
+function checkRefreshProgress($dashboard, doneCallback)
+{
+    if($dashboard.find('.panel-loading').length) setTimeout(function() {checkRefreshProgress($dashboard, doneCallback);}, 500);
+    else doneCallback();
+}
+
+$(function()
+{
+    var $dashboard = $('#dashboard').dashboard(
+    {
+        height            : 240,
+        draggable         : true,
+        shadowType        : false,
+        afterOrdered      : sortWidgets,
+        afterPanelRemoved : deleteWidget,
+        sensitive         : true,
+        panelRemovingTip  : config.confirmRemoveWidget,
+        resizable         : true,
+        onResize          : resizeWidget,
+        afterRefresh      : initTableHeader
+    });
+
+    $dashboard.find('ul.dashboard-actions').addClass('hide').children('li').addClass('right').appendTo($('#modulemenu > .nav'));
+    checkEmpty();
+    initTableHeader();
+    $('[data-toggle=tooltip]').tooltip({container: 'body'});
+
+    $(document).on('click', '.refresh-all-panel', function()
+    {
+        var $icon = $(this).find('.icon-repeat').addClass('icon-spin');
+        $dashboard.find('.refresh-panel').click();
+        checkRefreshProgress($dashboard, function() {$icon.removeClass('icon-spin');});
+    });
+});
+
+</script>
+
+
+</body></html>
+[INFO ] 2017-11-28 11:05:47,194 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-28 11:06:03,248 com.webtest.util.Log - expectedValue :首页  match actualValue:<html class="screen-desktop-wide device-desktop" lang="zh-cn"><head profile="http://www.w3.org/2005/10/profile">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关键词 - 蝉知企业门户</title>
+<meta name="keywords" content="企业门户系统 企业建站系统 开源CMS">
+<meta name="description" content="蝉知门户系统（chanzhiEPS）是一款开源免费的企业门户系统，企业建站系统，php开源CMS系统。它专为企业营销设计，功能专业全面，内置了文章发布、会员管理、论坛评论、产品展示、在线销售、客服跟踪等功能。以LGPL协议发布，真开源，真免费。注重SEO，注重营销，支持移动设备。界面简洁大方，使用简单方便，功能专业强大，是企业建站的首选！同时蝉知系统还内置了微信公众平台功能，一个网站，电脑、手机、微信体验俱佳！">
+<script>var config={"webRoot":"\/chanzhieps\/www\/","cookieLife":30,"requestType":"GET","requestFix":"-","moduleVar":"m","methodVar":"f","viewVar":"t","defaultView":"html","themeRoot":"\/chanzhieps\/www\/theme\/","currentModule":"tag","currentMethod":"admin","clientLang":"zh-cn","requiredFields":"","save":"\u4fdd\u5b58","router":"\/chanzhieps\/www\/admin.php","runMode":"admin","langCode":""}
+</script>
+<link rel="stylesheet" href="/chanzhieps/www/theme/default/default/chanzhi.all.admin.css?v=6.6" type="text/css" media="screen">
+<script src="/chanzhieps/www/js/chanzhi.all.admin.js?v=6.6" type="text/javascript"></script>
+<link rel="icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/chanzhieps/www/favicon.ico" type="image/x-icon">
+<link href="/chanzhieps/www/admin.php?m=rss&amp;f=index&amp;t=xml" title="蝉知企业门户" type="application/rss+xml" rel="alternate"><!--[if lt IE 9]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie8.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script src='/chanzhieps/www/js/chanzhi.all.ie9.js?v=6.6' type='text/javascript'></script>
+<![endif]-->
+<script>if(typeof(v) != "object") v = {};v.lang = {"confirmDelete":"\u60a8\u786e\u5b9a\u8981\u6267\u884c\u5220\u9664\u64cd\u4f5c\u5417\uff1f","deleteing":"\u5220\u9664\u4e2d","doing":"\u5904\u7406\u4e2d","loading":"\u52a0\u8f7d\u4e2d","updating":"\u66f4\u65b0\u4e2d...","timeout":"\u7f51\u7edc\u8d85\u65f6,\u8bf7\u91cd\u8bd5","errorThrown":"<h4>\u6267\u884c\u51fa\u9519\uff1a<\/h4>","continueShopping":"\u7ee7\u7eed\u8d2d\u7269","required":"\u5fc5\u586b","back":"\u8fd4\u56de","continue":"\u7ee7\u7eed"};</script>
+</head>
+<body>
+<nav id="primaryNavbar">
+  <ul class="nav nav-stacked">
+  <li class="" data-id="home"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=admin&amp;f=index" data-original-title="" title="">蝉知</a></li><li class="" data-id="content"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=article&amp;f=admin&amp;type=article" data-original-title="" title="">内容</a></li><li class="" data-id="shop"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=order&amp;f=admin" data-original-title="" title="">商城</a></li><li class="" data-id="user"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=user&amp;f=admin" data-original-title="" title="">会员</a></li><li class="active" data-id="promote"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic" data-original-title="" title="">推广</a></li><li class="" data-id="design"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=ui&amp;f=settemplate" data-original-title="" title="">设计</a></li><li class="" data-id="open"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=package&amp;f=browse" data-original-title="" title="">平台</a></li><li class="" data-id="setting"><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=site&amp;f=setbasic" data-original-title="" title="">设置</a></li>  </ul>
+  <ul class="nav nav-stacked fixed-bottom"><li data-toggle="tooltip" title="" data-id="profile" class="dropdown" data-original-title="admin"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon icon-user icon-2x"></i><span class="text-username"> admin <b class="caret"></b></span></a><ul class="dropdown-menu"><li class="heading"><i class="icon icon-user icon-large"></i><strong> admin</strong></li><li class="divider"></li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setPassword" data-toggle="modal">修改密码</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setEmail" data-toggle="modal">邮箱设置</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=setSecurity" data-toggle="modal">密保问题</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=about" data-toggle="modal">关于蝉知</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=misc&amp;f=thanks" data-toggle="modal">致谢</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=user&amp;f=logout">退出</a>
+</li></ul></li></ul></nav>
+<nav class="navbar navbar-fixed-top" role="navigation" id="mainNavbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbarCollapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="mainNavbarCollapse">
+        <ul class="nav navbar-nav">
+<li><a href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">统计</a></li>
+<li class="active"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li>
+<li><a href="/chanzhieps/www/admin.php?m=links&amp;f=admin">友情链接</a></li>
+</ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/chanzhieps/www/" target="_blank" class="navbar-link"><i class="icon-home icon-large"></i> 前台</a>
+</li>
+      <li class="dropdown"><a href="###" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-globe icon-large"></i> &nbsp;简体<span class="caret"></span></a>
+<ul class="dropdown-menu" style="min-width:60px; width: 86px">
+  <li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=zh-tw" data-toggle="tooltip" data-placement="left" data-original-title="切换到繁体中文站点">繁體</a>
+</li><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=switchLang&amp;lang=en" data-toggle="tooltip" data-placement="left" data-original-title="切换到英文站点">English</a>
+</li></ul>
+</li>
+    </ul>
+  </div>
+</nav>
+<div class="clearfix row-main">
+                    <div class="panel">
+  <div class="panel-heading">
+    <strong><i class="icon-tags"></i> 关键词</strong>
+    <div class="panel-actions">
+      <form method="post" class="form-inline form-search">
+        <div class="input-group">
+          <input name="tag" id="tag" value="" class="form-control search-query" placeholder="请输入关键词" type="text">
+          <span class="input-group-btn">
+             <input id="submit" class="btn btn-primary" value="搜索" data-loading="稍候..." type="submit">           </span>
+        </div>
+      </form>
+    </div>
+  </div>
+  <table class="table table-hover table-bordered table-striped tablesorter table-fixed">
+    <thead>
+      <tr class="text-center">
+                <th class="col-xs-3"> <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=tag_asc&amp;recTotal=15&amp;recPerPage=10">关键词</a>
+</div></th>
+        <th class="col-xs-1"><div class="headerSortUp"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_asc&amp;recTotal=15&amp;recPerPage=10">权重</a>
+</div></th>
+        <th>               <div class="header"><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=link_asc&amp;recTotal=15&amp;recPerPage=10">链接</a>
+</div></th>
+        <th class="col-xs-2">操作</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=开源CMS" data-toggle="modal">开源CMS</a>
+</td>
+        <td>5</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=9" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=9" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业门户" data-toggle="modal">企业门户</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=3" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=3" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=免费cms" data-toggle="modal">免费cms</a>
+</td>
+        <td>4</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=10" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=10" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=蝉知企业门户系统" data-toggle="modal">蝉知企业门户系统</a>
+</td>
+        <td>3</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=6" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=6" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=企业建站" data-toggle="modal">企业建站</a>
+</td>
+        <td>2</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=8" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=8" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微信网站" data-toggle="modal">微信网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=15" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=15" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=手机建站系统" data-toggle="modal">手机建站系统</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=14" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=14" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=移动建站" data-toggle="modal">移动建站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=13" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=13" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微网站" data-toggle="modal">微网站</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=12" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=12" class="deleter">删除</a>
+        </td>
+      </tr>
+            <tr class="text-center text-middle">
+        <td><a href="/chanzhieps/www/admin.php?m=tag&amp;f=source&amp;tag=微信营销系统" data-toggle="modal">微信营销系统</a>
+</td>
+        <td>1</td>
+        <td class="text-left"></td>
+        <td>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=link&amp;id=11" data-toggle="modal">编辑链接</a>
+          <a href="/chanzhieps/www/admin.php?m=tag&amp;f=delete&amp;id=11" class="deleter">删除</a>
+        </td>
+      </tr>
+          </tbody>
+    <tfoot><tr><td colspan="4"><div style="float:right; clear:none;" class="pager form-inline">共 <strong>15</strong> 条记录，<div class="dropdown dropup open"><a href="javascript:;" data-toggle="dropdown" id="_recPerPage" data-value="10">每页 <strong>10</strong> 条<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 5)">5</a></li><li class="active"><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 10)">10</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 15)">15</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 20)">20</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 25)">25</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 30)">30</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 35)">35</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 40)">40</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 45)">45</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 50)">50</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 100)">100</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 200)">200</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 500)">500</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 1000)">1000</a></li><li><a href="javascript:submitPage(&quot;changeRecPerPage&quot;, 2000)">2000</a></li></ul></div> <strong>1/2</strong> &nbsp; <i class="icon-step-backward" title="首页"></i> <i class="icon-play icon-rotate-180" title="上一页"></i> <a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=15&amp;recPerPage=10&amp;pageID=2"><i class="icon-play" title="下一页"></i></a>
+<a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin&amp;orderBy=rank_desc&amp;recTotal=15&amp;recPerPage=10&amp;pageID=2"><i class="icon-step-forward" title="末页"></i></a>
+<input id="_recTotal" value="15" type="hidden">
+<input id="_pageTotal" value="2" type="hidden">
+<input id="_pageID" value="1" style="text-align:center;width:30px;" class="form-control" type="text"> 
+<input id="goto" value="GO!" onclick="submitPage(&quot;changePageID&quot;);" class="btn" type="button">        <script language="Javascript">
+        vars = 'orderBy=rank_desc&recTotal=_recTotal_&recPerPage=_recPerPage_&pageID=_pageID_';
+        pageCookie = 'pagerTagAdmin';
+        function submitPage(mode, perPage)
+        {
+            pageTotal  = parseInt(document.getElementById('_pageTotal').value);
+            pageID     = document.getElementById('_pageID').value;
+            recPerPage = document.getElementById('_recPerPage').getAttribute('data-value');
+            recTotal   = document.getElementById('_recTotal').value;
+            if(mode == 'changePageID')
+            {
+                if(pageID > pageTotal) pageID = pageTotal;
+                if(pageID < 1) pageID = 1;
+            }
+            else if(mode == 'changeRecPerPage')
+            {
+                recPerPage = perPage;
+                pageID = 1;
+            }
+            $.cookie(pageCookie, recPerPage, {expires:config.cookieLife, path:config.webRoot});
+
+            vars = vars.replace('_recTotal_', recTotal)
+            vars = vars.replace('_recPerPage_', recPerPage)
+            vars = vars.replace('_pageID_', pageID);
+            location.href=createLink('tag', 'admin', vars);
+        }
+        </script></div></td></tr></tfoot>
+  </table>
+</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-bottom hidden-sm hidden-xs" role="navigation">
+  <ul class="breadcrumb pull-left" id="positionBar"><li><a href="/chanzhieps/www/admin.php?m=admin&amp;f=index">蝉知</a>
+</li><li><a data-toggle="tooltip" href="/chanzhieps/www/admin.php?m=stat&amp;f=traffic">推广</a></li><li><a href="/chanzhieps/www/admin.php?m=tag&amp;f=admin">关键词</a></li></ul>
+  <div id="powerby">
+        <a href="http://www.chanzhi.org/?v=6.6" target="_blank" title="开源 cms — 首选蝉知建站系统"><span class="icon-chanzhi"></span> <span class="name">蝉知</span>6.6</a>    
+  </div>
+</nav>
+
+
+
+</body></html>
