@@ -88,4 +88,6 @@ public class TGTongJi extends BaseTest{
 		webtest.click("id=submit");
 	
 	}
+	
+	/*在before里面写回到页面*/
 }
