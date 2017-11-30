@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import com.webtest.core.BaseTest;
 import com.webtest.core.Checker;
 
-public class TGTongJi extends BaseTest{
+public class TGStatisticsTest extends BaseTest{
 	
 	Action action=null;
 
@@ -89,5 +89,5 @@ public class TGTongJi extends BaseTest{
 	
 	}
 	
-	/*在before里面写回到页面*/
+	/*在before里面写回到*/
 }

@@ -54,7 +54,6 @@ public class BaseTest {
 		this.driver.manage().window().maximize();
 		webtest = new WebDriverEngine(driver);
 		webtest.open(base_Url);
-
 		check=new Checker(webtest);
 		
 	}

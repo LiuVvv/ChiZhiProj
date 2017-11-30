@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import com.webtest.core.BaseTest;
 
-public class TGGuanJianCi  extends BaseTest {
+public class TGKeyWordTest  extends BaseTest {
 	Action action=null;
 
 	@BeforeClass
