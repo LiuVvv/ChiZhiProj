@@ -3172,3 +3172,11 @@ $(function()
 
 
 </body></html>
+[INFO ] 2017-11-30 15:09:18,884 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 15:12:05,453 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 16:11:44,292 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 16:26:43,902 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 16:29:19,425 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 17:25:07,465 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 18:19:37,148 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
+[INFO ] 2017-11-30 18:21:36,830 com.webtest.util.Log - Opened url http://localhost:8032/chanzhieps/www/admin.php
