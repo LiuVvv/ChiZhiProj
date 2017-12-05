@@ -1,9 +1,8 @@
 package com.edu.test;
-
+// 1 test 1 PO
 import static org.testng.Assert.assertTrue;
 
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.webtest.core.BaseTest;

@@ -1,10 +1,10 @@
 package com.edu.test;
 
+// 9 test 1 provider
 
-
-import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 
@@ -21,7 +21,7 @@ public class TGKeyWordTest  extends BaseTest {
 	
 	@BeforeMethod
 	public void back(){
-		webtest.open(base_Url);
+		webtest.open(index_Url);
 	}
 	@Test
 	public void Guanjianzi() throws Exception{
@@ -31,17 +31,24 @@ public class TGKeyWordTest  extends BaseTest {
 		webtest.click("xpath=//a[@href='/chanzhieps/www/admin.php?m=tag&f=admin']");
 		check.verifyHtmlSource("搜索");
 	}
-	@Test
-	public void Sousuo() throws Exception{
+	@DataProvider(name="today")
+	public Object [][] getData() {
+		Object[][] obj={{"CMS","开源CMS"}};
+		 return obj;
+		}
+	
+
+	
+	@Test(dataProvider="today")
+	public void Sousuo(String tag,String verify) throws Exception{
 	/*	搜索相关内容*/
 		webtest.click("xpath=//a[contains(.,'推广')]");
 		webtest.click("xpath=//a[@href='/chanzhieps/www/admin.php?m=tag&f=admin']");
-		webtest.type("id=tag", "CMS");
+		webtest.type("id=tag",tag);
 		webtest.click("id=submit");
-		check.verifyHtmlSource("开源CMS");
+		check.verifyHtmlSource(verify);
 		}
-
-
+	
 	@Test
 	public void Weiquan() throws Exception{
 		/*	按照位权排序*/
@@ -96,16 +103,14 @@ public class TGKeyWordTest  extends BaseTest {
 	}
 	@Test
 	public void Propage() throws Exception{
-		/*  每页显示条数更改javascript*/
+		/*  每页显示条数更改javascript
+		 * 
+		 * 没有成功运行*/
 	webtest.click("xpath=//a[contains(.,'推广')]");
 	webtest.click("xpath=//a[@href='/chanzhieps/www/admin.php?m=tag&f=admin']");
 	webtest.click("id=_recPerPage");
-
-//	JavascriptExecutor j = (JavascriptExecutor) driver;
-//	j.executeScript(js);
 	webtest.runJs("document.getElementByClass('dropdown dropup').getElementsTagName('ul')[0].removeAttribute('class')");
-	webtest.click("linkText=15");
-//	driver.FindElement(By.XPath("//a[@href='javascript:submitPage("changeRecPerPage", 5)']"));
+	webtest.click("link=15");
 	check.verifyHtmlSource("首页");
 	}
 

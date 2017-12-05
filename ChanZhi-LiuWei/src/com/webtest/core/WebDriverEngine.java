@@ -122,6 +122,15 @@ public class WebDriverEngine {
 		return element.isSelected();
 	}
 
+	public void immediatelyClick(String locator) {
+
+		WebElement element = finder.findElement(locator);
+		if (element != null) {
+			element.click();
+		
+		}
+	}
+	
 	public void click(String locator) {
 
 		WebElement element = finder.findElement(locator);

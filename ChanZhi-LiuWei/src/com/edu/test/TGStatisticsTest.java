@@ -1,24 +1,25 @@
 package com.edu.test;
-
-import static org.testng.Assert.assertTrue;
-
-import org.openqa.selenium.By;
+//5 test 2 provider
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.webtest.core.BaseTest;
-import com.webtest.core.Checker;
 
 public class TGStatisticsTest extends BaseTest{
-	
 	Action action=null;
-
 	@BeforeClass
 	public void beforeAction() throws InterruptedException{
 		action =new Action(webtest);
 		action.loginPass("admin", "admin");
 			}	
+	@BeforeMethod
+	public void doBeforeMethod()  {
+		//每个test结束后都返回最开始那个登录成功的页面
+		webtest.open(base_Url);
+	
+		}
 	@Test
 	public void testbackLogin(String username,String passwd) throws Exception{
 		
@@ -89,5 +90,4 @@ public class TGStatisticsTest extends BaseTest{
 	
 	}
 	
-	/*在before里面写回到*/
 }

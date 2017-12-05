@@ -14,9 +14,7 @@ import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterTest;
@@ -37,6 +35,7 @@ public class BaseTest {
 	public static Properties conf = null;
 	public final static String CONF_PATH = "conf/config.properties";
 	public String base_Url =getCfgProperty("base_Url");
+	public String index_Url =getCfgProperty("index_Url");
 	public  WebDriverEngine webtest;
 	public WebDriver driver;
 	public String driverType;
