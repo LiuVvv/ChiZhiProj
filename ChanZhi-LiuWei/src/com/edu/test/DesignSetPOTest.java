@@ -2,6 +2,7 @@ package com.edu.test;
 // 1 test 1 PO
 import static org.testng.Assert.assertTrue;
 
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -23,6 +24,14 @@ public class DesignSetPOTest extends BaseTest{
 		DesignSetPageObject linkPageObject=new DesignSetPageObject(driver);
 		linkPageObject.addLink();
 		assertTrue(driver.getPageSource().contains("…Ë÷√≥…π¶"));
+	}
+	
+	@AfterClass
+	public void quit(){
+		if(driver!=null){
+			driver.quit();
+			}
+		
 	}
 	
 	

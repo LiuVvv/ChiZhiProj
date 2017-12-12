@@ -1,5 +1,7 @@
 package com.edu.test;
 
+import org.testng.annotations.AfterClass;
+
 // 9 test 1 provider
 
 import org.testng.annotations.BeforeClass;
@@ -22,6 +24,14 @@ public class TGKeyWordTest  extends BaseTest {
 	@BeforeMethod
 	public void back(){
 		webtest.open(index_Url);
+	}
+	
+	@AfterClass
+	public void quit(){
+		if(driver!=null){
+			driver.quit();
+			}
+		
 	}
 	@Test
 	public void Guanjianzi() throws Exception{
@@ -108,10 +118,11 @@ public class TGKeyWordTest  extends BaseTest {
 		 * 没有成功运行*/
 	webtest.click("xpath=//a[contains(.,'推广')]");
 	webtest.click("xpath=//a[@href='/chanzhieps/www/admin.php?m=tag&f=admin']");
-	webtest.click("id=_recPerPage");
-	webtest.runJs("document.getElementByClass('dropdown dropup').getElementsTagName('ul')[0].removeAttribute('class')");
+//	webtest.click("id=_recPerPage");
+//	webtest.click("xpath=javascript:submitPage(\"changeRecPerPage\", 15)");
+	webtest.runJs("document.getElementsByClassName('dropdown dropup')[0].getElementsByTagName('ul')[0].removeAttribute('class')");
 	webtest.click("link=15");
-	check.verifyHtmlSource("首页");
+//	check.verifyHtmlSource("15");
 	}
 
 	

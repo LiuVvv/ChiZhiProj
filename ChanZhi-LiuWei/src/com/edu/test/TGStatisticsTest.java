@@ -1,4 +1,5 @@
 package com.edu.test;
+import org.testng.annotations.AfterClass;
 //5 test 2 provider
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -20,8 +21,16 @@ public class TGStatisticsTest extends BaseTest{
 		webtest.open(base_Url);
 	
 		}
+	
+	@AfterClass
+	public void quit(){
+		if(driver!=null){
+			driver.quit();
+			}
+		
+	}
 	@Test
-	public void testbackLogin(String username,String passwd) throws Exception{
+	public void testbackLogin() throws Exception{
 		
 		/*
 		 * 登录后台是否成功

@@ -39,7 +39,7 @@ public class DesignSetPageObject {
 		this.two.click();
 		Thread.sleep(3000);
 		this.submit.click();
-		
+		Thread.sleep(1000);
 		
 	}
 	

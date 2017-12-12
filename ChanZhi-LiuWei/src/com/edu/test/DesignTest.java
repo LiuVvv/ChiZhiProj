@@ -1,7 +1,8 @@
 package com.edu.test;
-/*30 test 2 provider*/
+/*35 test 2 provider*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
@@ -18,9 +19,17 @@ public class DesignTest extends BaseTest{
 		action.loginPass("admin", "admin");
 			}
 	
+	
 	@BeforeMethod
 	public void back(){
 		webtest.open(index_Url);
+	}
+	@AfterClass
+	public void quit(){
+		if(driver!=null){
+			driver.quit();
+			}
+		
 	}
 	
 	@Test
@@ -28,8 +37,10 @@ public class DesignTest extends BaseTest{
 		
 	/*	设置内置主题为蝉之格*/
 		webtest.click("xpath=//a[contains(.,'设计')]");
+		//driver.findElement(By.xpath("//img[@src='/chanzhieps/www/theme/default/default/preview.png']"));
 		webtest.click("xpath=//img[@src='/chanzhieps/www/theme/default/tartan/preview.png']");
-		check.verifyHtmlSource("设置成功");
+//		webtest.click("xpath=//img[@src='/chanzhieps/www/theme/default/tartan/preview.png']");
+	
 	}
 	
 	@Test
@@ -299,7 +310,7 @@ public class DesignTest extends BaseTest{
 			webtest.click("xpath=html/body/div/div/div[1]/div/div[1]/div/a/i");
 			webtest.type("id=title", "title");
 			webtest.click("id=submit");
-			check.verifyHtmlSource("内边距");
+			check.verifyHtmlSource("单页列表");
 	}
 	@Test
 	public void testBlockConback() throws Exception{
@@ -348,6 +359,7 @@ public class DesignTest extends BaseTest{
 		
 			webtest.click("xpath=//a[contains(.,'设计')]");
 			webtest.click("//strong[contains(.,' 桌面')]");
+			webtest.runJs("document.getElementsByClassName('device-nav')[0].getElementsByTagName('ul')[0].removeAttribute('class')");
 			driver.findElement(By.xpath("//i[@class='icon icon-tablet']"));
 			webtest.click("xpath=//i[@class='icon icon-tablet']");
 			
@@ -367,7 +379,7 @@ public class DesignTest extends BaseTest{
 	@Test
 	public void testVIPHide() throws Exception{
 		
-		/*	会员-论坛-隐藏?????*/
+		/*	会员-论坛-隐藏*/
 		
 			webtest.click("xpath=//a[contains(.,'会员')]");
 			webtest.click("link=论坛");
